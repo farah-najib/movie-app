@@ -8,13 +8,13 @@ The **movie-app** is a simple React project bootstrapped with Vite. It serves as
 
 ## Branches Overview
 
-- **main** 
+- **main**
 
 
 - [**unit-testing-example**](https://github.com/farah-najib/movie-app/tree/unit-testing-example)
 
 
--[**intro-vitest-lifecycle-hooks**](https://github.com/farah-najib/movie-app/tree/intro-vitest-lifecycle-hooks)
+- [**intro-vitest-lifecycle-hooks**](https://github.com/farah-najib/movie-app/tree/intro-vitest-lifecycle-hooks)
 
 
 - [**automatiserade-integrationstester-med-Vitest**](https://github.com/farah-najib/movie-app/tree/automatiserade-integrationstester-med-Vitest)
